@@ -8,7 +8,7 @@ import Footer from "./components/Footer"
 const App = () => {
     return (
         <>
-        <p>Hola</p>
+        <h1>HOLA que onda</h1>
         <Header/>
         <Main/>
         <Footer/>
