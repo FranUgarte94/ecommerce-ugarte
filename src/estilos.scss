@@ -1,3 +1,13 @@
 body {
     background-color: whitesmoke;
-}
+    /* background-color: red; */
+  }
+  
+  .nav {
+  
+    &__link {
+      color: black;
+      text-decoration: none;
+    }
+  
+  }

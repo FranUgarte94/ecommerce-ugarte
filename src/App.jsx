@@ -2,21 +2,21 @@
 
 //Fragmento
 import Header from "./components/Header"
-import Main from "./components/Main"
 import Footer from "./components/Footer"
+import Main from "./components/Main"
 
 const App = () => {
-    return (
-        <>
-        <h1>HOLA que onda</h1>
-        <Header/>
-        <Main/>
-        <Footer/>
-        </>
-    )
+  return (
+    <>
+      <Header/>
+      <Main/>
+      <Footer/>
+    </>
+  )
 }
 
 export default App
+
 
 /*export default app = () => {
     return "Hola mundo"
